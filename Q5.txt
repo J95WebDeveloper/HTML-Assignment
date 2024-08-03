@@ -1,0 +1,10 @@
+Q5. What is the DOCTYPE Declaration in HTML? 
+
+Answer -  
+
+*  The doctype declaration is used to specify the version of HTML or 
+   XHTML being used in the document.
+    
+*  it is an information to the browser about what document type to expect.
+
+Ex -   <!DOCTYPE html> 

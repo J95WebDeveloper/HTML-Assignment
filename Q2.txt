@@ -1,0 +1,14 @@
+Q2. Explain the purpose of comments in HTML and provide an example of how to use comments in an HTML document.
+
+Answer - 
+
+Comments : 
+ 
+* Used for non-executing code notes.
+* Aid in code documentation and debugging.
+* Single line : <!-- Comment  - ->
+* Multi-line :  <!-- Multi line Comment  - ->
+
+
+Ex -  <!-- heading  -->
+         <h1> Hello </h1>

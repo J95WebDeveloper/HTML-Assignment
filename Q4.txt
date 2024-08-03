@@ -1,0 +1,21 @@
+Q4. Write a short note on tag and element with an example.
+
+Answer -
+
+Tag : 
+
+*  Tags are the keywords on a web page that define how your web
+   browser must format and display your web page. 
+*  Tags defines structure and layout of web pages.
+*  Paired or self-closing tags provide instructions to browsers.
+
+Ex -  <div> </div>
+
+
+Element : 
+
+*  elements consist of start tag, content, and end tag.
+*  element is a container for different types of input elements,
+   such as - text fields, checkboxs, radio buttons
+
+Ex -  <h1> My First Heading </h1>
